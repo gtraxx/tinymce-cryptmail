@@ -3,6 +3,10 @@
 A lightweight and secure plugin for **TinyMCE 6 & 7** designed to protect email addresses from spam bots by encrypting `mailto:` links into hexadecimal strings.
 Developed by **Gerits Aurélien**.
 
+![Version TinyMCE](https://img.shields.io/badge/TinyMCE-6%20%7C%207-blue)
+![Licence](https://img.shields.io/badge/licence-MIT-green)
+![Statut](https://img.shields.io/badge/projet-Open%20Source-orange)
+
 ## Features
 
 - **One-Click Encryption:** Instantly convert any `mailto:` link into an opaque hexadecimal string.
